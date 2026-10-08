@@ -1,0 +1,27 @@
+# Ambiente Virtual
+venv/
+env/
+.venv/
+
+# Variáveis de Ambiente (CHAVES DE API - Segurança)
+.env
+
+# Cache e Arquivos Temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit Cache
+.streamlit/
+
+# Editores de Código (VS Code / PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
